@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(33, 45, 45);
+    color: azure;
+    font-size: 1.1em;
+}
+.img {
+    width: 400px;
+    height: auto;
+}
+h1 {
+    background-color: darkred;
+    color: lightgrey;
+}
+h2 {
+    background-color: green;
+    color: lightgrey;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orangered
+}
+button {
+    background-color: goldenrod;
+    text-align: center;
+    font-size: 1em;
+}
